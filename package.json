@@ -1,0 +1,14 @@
+{
+  "name": "Tagihan Otomatis",
+  "version": "2.0",
+  "description": "Project - Tagihan Otomatis.",
+  "main": "index.js",
+  "author": "Reza/EntityN3",
+  "license": "MIT",
+  "dependencies": {
+    "cli-table": "^0.3.11",
+    "fs": "^0.0.1-security",
+    "readline-sync": "^1.4.10",
+    "simple-json-db": "^1.2.3"
+  }
+}
